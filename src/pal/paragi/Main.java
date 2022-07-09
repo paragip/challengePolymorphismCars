@@ -43,7 +43,7 @@ class Mazda extends Cars {
 
     @Override
     public String startEngine() {
-        return super.startEngine();
+        return "Mazda - startEngine()";
     }
 }
 
